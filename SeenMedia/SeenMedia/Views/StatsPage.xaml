@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SeenMedia"
+             x:Class="SeenMedia.StatsPage"
+             Title="Twoje statystyki">
+    <StackLayout Margin="10" Orientation="Vertical" HorizontalOptions="CenterAndExpand">
+        <Label Text="Przeczytałeś tyle książek:"
+               FontSize="Medium"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <Label x:Name="BooksLabel"
+               FontSize="Large"
+               TextColor="Black"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+
+        <Label Text="Obejrzałeś filmów:"
+               FontSize="Medium"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <Label x:Name="MoviesLabel"
+               FontSize="Large"
+               TextColor="Black"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+
+        <Label Text="Szalałeś pod sceną razy:"
+               FontSize="Medium"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <Label x:Name="ConcertsLabel"
+               FontSize="Large"
+               TextColor="Black"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+
+        <Label Text="Ukulturalniałeś się w teatrze:"
+               FontSize="Medium"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <Label x:Name="SpectaclesLabel"
+               FontSize="Large"
+               TextColor="Black"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+
+        <Label Text="Odwiedziłeś muzea:"
+               FontSize="Medium"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <Label x:Name="MuseumsLabel"
+               FontSize="Large"
+               TextColor="Black"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+
+        <Label Text="Ciąłeś w liczbę gier równą:"
+               FontSize="Medium"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <Label x:Name="GamesLabel"
+               FontSize="Large"
+               TextColor="Black"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+
+        <Label Text="Pochłonęły Cię seriale:"
+               FontSize="Medium"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        <Label x:Name="SeriesLabel"
+               FontSize="Large"
+               TextColor="Black"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+    </StackLayout>
+</ContentPage>

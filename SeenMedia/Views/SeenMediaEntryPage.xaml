@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SeenMedia.Views.SeenMediaEntryPage"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             Title="Strona wydarzenia">
+  <ScrollView>
+        <StackLayout Padding="10">
+            <Label Text="Nośnik kultury" />
+            <Picker x:Name="picker" Title="Wybierz rodzaj media" SelectedItem="{Binding Media}">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Książka</x:String>
+                        <x:String>Film</x:String>
+                        <x:String>Koncert</x:String>
+                        <x:String>Sztuka</x:String>
+                        <x:String>Muzeum</x:String>
+                        <x:String>Gra</x:String>
+                        <x:String>Serial</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Label Text="Tytuł" />
+            <Entry Text="{Binding Title}" />
+            <Label Text="Opis" />
+            <Entry Text="{Binding Info}" />
+            <Label Text="Data" />
+            <DatePicker HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Date="{Binding Date}">
+                <DatePicker.Format>dd-MM-yyyy</DatePicker.Format>
+                <DatePicker.MinimumDate>
+                    <sys:DateTime x:FactoryMethod="Parse">
+                        <x:Arguments>
+                            <x:String>Aug 19 1991</x:String>
+                        </x:Arguments>
+                    </sys:DateTime>
+                </DatePicker.MinimumDate>
+                <DatePicker.MaximumDate>
+                    <sys:DateTime x:FactoryMethod="Parse">
+                        <x:Arguments>
+                            <x:String>Dec 31 2100</x:String>
+                        </x:Arguments>
+                    </sys:DateTime>
+                </DatePicker.MaximumDate>
+            </DatePicker>
+            <Button BackgroundColor="#2f6581" TextColor="White" Text="Zapisz" Clicked="OnSaveClicked" />
+            <Button Text="Usuń" Clicked="OnDeleteClicked" />
+            <Button Text="Anuluj" Clicked="OnCancelClicked" />
+        </StackLayout>
+  </ScrollView>
+</ContentPage>

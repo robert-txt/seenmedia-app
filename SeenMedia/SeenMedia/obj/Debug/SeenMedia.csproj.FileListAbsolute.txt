@@ -1,0 +1,49 @@
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SeenMedia.dll
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SeenMedia.pdb
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.App.xaml.g.cs
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.dll
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.pdb
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.Views.SeenMediaEntryPage.xaml.g.cs
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLite-net.dll
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLitePCLRaw.batteries_green.dll
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLitePCLRaw.core.dll
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLite-net.pdb
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLite-net.xml
+c:\users\robert\documents\visual studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.Views.SeenMediaListPage.xaml.g.cs
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.Views.StatsPage.xaml.g.cs
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.dll.mdb
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SeenMedia.dll.mdb
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SeenMedia.dll
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SeenMedia.pdb
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLite-net.dll
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLite-net.pdb
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\SQLite-net.xml
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.csprojResolveAssemblyReference.cache
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.csproj.CoreCompileInputs.cache
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.Views.StatsPage.xaml.g.cs
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.App.xaml.g.cs
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.Views.SeenMediaEntryPage.xaml.g.cs
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.Views.SeenMediaListPage.xaml.g.cs
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.dll
+C:\Users\Grażyna\Desktop\SeenMedia\SeenMedia\SeenMedia\obj\Debug\SeenMedia.pdb

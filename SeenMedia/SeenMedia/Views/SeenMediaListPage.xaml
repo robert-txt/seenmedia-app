@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SeenMedia.Views.SeenMediaListPage"
+             Title="Lista zobaczonych rzeczy">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="+" Clicked="OnItemAdded">
+            <!--<ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource" Android="plus.png" />
+            </ToolbarItem.Icon>-->
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ListView ItemSelected="OnListItemSelected"
+            HasUnevenRows="true"
+            IsPullToRefreshEnabled="true"
+            CachingStrategy="RecycleElement"
+            x:Name="listView">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Margin="5,5,5,5" Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                        <Label Text="{Binding Media}" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand" />
+                        <Label Text="{Binding Title}" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand" />
+                        <Label Text="{Binding Info}" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand"/>
+                        <Label Text="{Binding Date, StringFormat='{0:dd/MM/yyyy}'}" HorizontalTextAlignment="End" VerticalTextAlignment="Center" HorizontalOptions="FillAndExpand" />
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+        <ListView.Footer>
+            <StackLayout Padding="10"
+                   Orientation="Horizontal"
+                   HorizontalOptions="FillAndExpand">
+                <Button Text="Tapnij aby przejść do statystyk"  
+                       HorizontalOptions="FillAndExpand" 
+                       TextColor="White"
+                       BackgroundColor="#2f6581"
+                       FontAttributes="Bold"
+                       Clicked="OnStatsClicked"/>
+            </StackLayout>
+        </ListView.Footer>
+    </ListView>
+</ContentPage>
